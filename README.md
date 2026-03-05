@@ -1,7 +1,7 @@
 # NLP Basics
 
 ## Project Description
-This project serves as a comprehensive introduction to Natural Language Processing (NLP). It covers various techniques and methods employed in the field, making it suitable for beginners and aspiring data scientists looking to enhance their knowledge in NLP.
+This project serves as a comprehensive introduction to Natural Language Processing (NLP). 
 
 ## Topics Covered
 - Overview of Natural Language Processing
@@ -12,17 +12,6 @@ This project serves as a comprehensive introduction to Natural Language Processi
 - Text Classification
 - Language Models (including Transformers)
 - Practical Applications of NLP
-
-## Project Structure
-```
-NLP_basics/
-│
-├── data/               # Datasets used in the project
-├── notebooks/          # Jupyter notebooks containing code and analysis
-├── src/               # Source code for the project
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
-```
 
 ## Installation Instructions
 1. Clone the repository:
@@ -40,25 +29,7 @@ NLP_basics/
    pip install -r requirements.txt
    ```
 
-## Usage Instructions
-- Open the Jupyter notebooks in the `notebooks/` directory to explore the various analysis and applications illustrated in this project.
-- Run the Python scripts in the `src/` directory to replicate the results described in the notebooks.
+This portfolio was built using knowledge from various excellent resources:
 
-## Contributing Guidelines
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b my-feature
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push your changes to your branch:
-   ```bash
-   git push origin my-feature
-   ```
-5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Natural Language Processing with Python - Complete Course](https://www.youtube.com/watch?v=ENLEjGozrio) - Comprehensive NLP tutorial
+- [The AI Engineer Course - Complete AI Engineer Bootcamp (Udemy)](https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/) - End-to-end AI engineering
